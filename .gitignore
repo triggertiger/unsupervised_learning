@@ -1,0 +1,11 @@
+# data folder: 
+data
+
+# cache
+pycache
+cache-dir/
+.DS_Store
+
+# local project settings
+.env
+ruff.toml
